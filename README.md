@@ -63,4 +63,4 @@ pytest tests/ -v
 
 ---
 
-*Projekt portfolio Python AI/Data · NASA Open Data*
+*Projekt Python AI/Data · NASA Open Data*
