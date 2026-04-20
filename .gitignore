@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+build/
+dist/
+
+# Wirtualne środowisko
+.venv/
+venv/
+
+# Zmienne środowiskowe
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Testy
+.pytest_cache/
+.coverage
+
+# macOS
+.DS_Store
+Guide.md
